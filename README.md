@@ -23,6 +23,11 @@
 | 📋 Feature Glossary | Clinical explanation for all 13 input variables |
 
 ---
+## 🚀 Live Demo
+
+**Try the application here:**
+
+https://cardiosense-ai-htcbewfaa3rtf64wmfv6df.streamlit.app/
 
 ## 🚀 Quick Start
 
